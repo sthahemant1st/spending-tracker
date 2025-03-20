@@ -10,3 +10,8 @@
 - Recurring Expenses – Store repeating expenses and auto-generate them.
 - iCloud Sync – Use Core Data with CloudKit to sync data across devices.
 - iOS accessibility tools, such as VoiceOver
+- SwiftTesting, TDD, UI testing
+
+### Mind map
+- use [Swift Data](https://developer.apple.com/documentation/CoreData/adopting-swiftdata-for-a-core-data-app)
+- use [UI testing](https://tanaschita.com/testing-ui-swiftui-xctest-framework/?utm_source=substack&utm_medium=email)
