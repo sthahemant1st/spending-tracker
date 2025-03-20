@@ -18,7 +18,7 @@ struct SpendingTrackerTests {
         let amount: Double = 100.0
         let category: String = "Groceries"
         let date: Date = .now
-        
+
         let expense = Expense(
             title: title,
             description: description,
@@ -26,7 +26,7 @@ struct SpendingTrackerTests {
             category: category,
             date: date
         )
-        
+
         #expect(expense.title == title)
         #expect(expense.description == description)
         #expect(expense.amount == amount)

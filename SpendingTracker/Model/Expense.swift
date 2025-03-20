@@ -12,7 +12,7 @@ struct Expense: Identifiable {
     let amount: Double
     let category: String
     let date: Date
-    
+
     var id: Date {
         date
     }
