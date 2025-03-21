@@ -6,6 +6,7 @@
 - Monthly Summary – Fetch and display total spending for the current month.
 - Filtering & Sorting – Allow filtering by category or sorting by date/amount.
 - send a push notification every day at a certain time which is set-upable to remind to track spending.
+- add a shortcut to directly add expense
 ## Bonus Features
 - Charts – Use Swift Charts to visualize spending trends.
 - Recurring Expenses – Store repeating expenses and auto-generate them.
