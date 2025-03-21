@@ -25,7 +25,7 @@ struct SpendingTrackerApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DashboardScreen()
         }
         .modelContainer(sharedModelContainer)
     }
