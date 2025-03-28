@@ -13,6 +13,7 @@
 - iCloud Sync – Use Core Data with CloudKit to sync data across devices.
 - iOS accessibility tools, such as VoiceOver
 - SwiftTesting, TDD, UI testing
+- Use Factory
 - Github action - Swiftlint
 
 ### Mind map
